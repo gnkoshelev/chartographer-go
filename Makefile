@@ -7,7 +7,7 @@ build:
 	go build -o build/app
 
 run:
-	./build/app
+	./build/app ${ARGS}
 
 clean:
 	rm -rf build
