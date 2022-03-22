@@ -1,0 +1,5 @@
+POST http://localhost:8080/chartas/?width=80&height=40
+Content-Type: application/json
+
+
+###
